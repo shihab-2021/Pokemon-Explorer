@@ -4,6 +4,10 @@ A modern, responsive web application built with React that allows users to explo
 
 ![Pokemon Explorer Screenshot](https://i.ibb.co.com/hHj4YPW/image.png)
 
+## 🌐 Project Links
+- **Live Demo**: [Pokémon Explorer](https://cool-brioche-60117c.netlify.app/)
+- **Client-Side Repository**: [GitHub Client Repo](https://github.com/shihab-2021/Pokemon-Explorer)
+
 ## 🌟 Features
 
 - **Browse Pokémon**: Explore a comprehensive list of Pokémon with beautiful card layouts
