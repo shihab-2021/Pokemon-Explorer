@@ -2,7 +2,7 @@
 
 A modern, responsive web application built with React that allows users to explore, search, and collect information about Pokémon. The application features a dark theme design with premium UI elements and smooth animations.
 
-![Pokemon Explorer Screenshot]('https://i.ibb.co.com/hHj4YPW/image.png')
+![Pokemon Explorer Screenshot](https://i.ibb.co.com/hHj4YPW/image.png)
 
 ## 🌟 Features
 
