@@ -92,4 +92,4 @@ For any queries or suggestions, please reach out to:
 
 ---
 
-Thank you for checking out the Universal Hostel Management System project! If you find it helpful, consider giving it a ⭐ on GitHub.
+Thank you for checking out the Pokémon Explorer project! If you find it helpful, consider giving it a ⭐ on GitHub.
